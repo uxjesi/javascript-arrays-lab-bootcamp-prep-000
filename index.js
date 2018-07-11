@@ -30,7 +30,7 @@ function appendKitten() {
 
 function prependKitten() {
   
-    return (newCat.concat(kittens))
+    return (newerCat.concat(kittens))
 
 }
 
