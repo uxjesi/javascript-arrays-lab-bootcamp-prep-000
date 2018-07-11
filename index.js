@@ -27,10 +27,10 @@ function appendKitten() {
   return (kittens.concat(newCat))
 }
 
-function prependKitten(kitten) {
-  kittens.splice(0, 0, kitten)
+function prependKitten() {
   
-  return 
+    return (newCat.concat(kittens))
+
 }
 
 
