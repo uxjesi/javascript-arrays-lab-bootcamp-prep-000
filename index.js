@@ -1,6 +1,7 @@
 // Add your functions and code here
 var kittens = ["Milo", "Otis", "Garfield"]
 var newCat = ["Broom"]
+var newerCat = ["Arnold"]
 
 function destructivelyAppendKitten(kitten) {
  kittens.push(kitten)
