@@ -27,7 +27,7 @@ function appendKitten() {
   return (kittens.concat(newCat))
 }
 
-function prependKitten(kittens) {
+function prependKitten(kitten) {
   return kittens.splice(0, 1, "Arnold")
 }
 
