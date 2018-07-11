@@ -28,7 +28,7 @@ function appendKitten() {
 }
 
 function prependKitten(kitten) {
-  
+  return ()
 }
 
 
