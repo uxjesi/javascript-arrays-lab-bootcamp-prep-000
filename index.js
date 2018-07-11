@@ -29,9 +29,11 @@ function appendKitten() {
 }
 
 function prependKitten() {
-  
     return (newerCat.concat(kittens))
+}
 
+function removeLastKitten() {
+  
 }
 
 
